@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombrepug">Patas</string>
+    <string name="puntuacion">5</string>
+    <string name="imagen">Imagen</string>
+    <string name="todo">TODO</string>
+    <string name="contacto">"Contacto"</string>
+    <string name="acerca">"Acerca de"</string>
+    <string name="correo">"Correo Electronico (Puedes colocar el tuyo para confirmar que el metodo funciona)"</string>
+    <string name="enviarcom">"Enviar Comentario"</string>
+    <string name="comentario">"Comentarios o sugerencias"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
